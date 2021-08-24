@@ -15,5 +15,3 @@
 12. You can start your server using ``` ./csgoserver start ```, ``` ./csgoserver stop ``` to stop and ``` ./csgoserver restart ``` to restart.
 13. More commands could be found by typing ``` ./csgoserver ```
 
-
-Commands to host your own csgo server on any cloud platform like aws, gcp, etc.
